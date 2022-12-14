@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "704338308221",
+    "firebase_url": "https://tram-e65c4-default-rtdb.firebaseio.com",
+    "project_id": "tram-e65c4",
+    "storage_bucket": "tram-e65c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704338308221:android:ad5155a828db47e71e1514",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704338308221-ntbmch760fp2rrg2kgcp47ttr47vfgse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClUERB1gdckiT19DBiDt3l4CSboSSX0vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704338308221-ntbmch760fp2rrg2kgcp47ttr47vfgse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
